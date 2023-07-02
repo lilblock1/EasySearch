@@ -1,0 +1,31 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#4C4C4C; } 
+a:hover { color:#B2B3B4; } 
+#menu_6df3d864 a { text-decoration: none; }
+#menu_6df3d864_pane { background-color: #E6E6E6; border: 1px solid #E6E6E6; padding-top: 10px; padding-bottom: 10px; border-radius: 15px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_6df3d864_hr { background-color: #E6E6E6; height: 1px; border: none; }
+#menu_6df3d864_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_6df3d864_entry:hover { background-color: #3E3E3E; color: #FFFFFF !important; }
+#menu_6df3d864_entry:hover span { color:#FFFFFF !important; }
+		.menu_6df3d864_mainMenuEntry { text-align: center; }
+		.menu_6df3d864_mainMenuEntry:hover {	background-color:#3E3E3E; }
+		.menu_6df3d864_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_6df3d864 .mobileEntry { display: none; } 
+		#menu_6df3d864 .normalEntry { display: block; } 
+		@media only screen and (max-width:550px) { 
+			#menu_6df3d864 .mobileEntry { display: block; } 
+			#menu_6df3d864 .normalEntry { display: none; } 
+		}
+body { background-color:#1E1E25; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#menu_6df3d864 { box-sizing: border-box; vertical-align: bottom; border-radius: 15px; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background-color:#E5E5E5; background: linear-gradient(to bottom, #FFFFFF, #E5E5E5); border: 1px solid #A0A0A0; box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.588235);  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:36px; height:38px; left:10px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:32px;  }
+.textstyle2 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:126px; height:38px; left:10px;  }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:17px;  }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+#heading_7cb9c60c { position:absolute; left:0%; top:5%; width:397px; background:none; font-size:26pt; font-family:'Courier New', Courier, monospace; color:#FFFFFF; text-align:left; text-shadow: 2px 2px 15px #000000;  }
